@@ -37,8 +37,8 @@ I enjoy building web apps and ML projects, and I'm working towards freelancing a
 
 ## 📫 Connect with me
 
-- 🌐 Portfolio: *add your portfolio link*
-- 💼 LinkedIn: *add your LinkedIn link*
+- 🌐 Portfolio:https://jahanvi-three.vercel.app/
+- 💼 LinkedIn: jahanvi0309
 - 📸 Instagram: [@jahanvi0309](https://instagram.com/jahanvi0309)
 
 ---
